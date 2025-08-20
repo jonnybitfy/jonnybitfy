@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[[![Linkedin Badge](https://media.tenor.com/LO4KuLxUULYAAAAC/mauzymice-furry.gif)
+[[![](https://media.tenor.com/LO4KuLxUULYAAAAC/mauzymice-furry.gif)
 </div>
 
 <hr>
