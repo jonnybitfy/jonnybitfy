@@ -1,4 +1,4 @@
-<h2> Olá! Meu nome é <strong>João Guilherme!</strong> src="https://animesher.com/orig/1/168/1686/16866/animesher.com_nagisa-hazuki-free-anime-boy-1686663.gif"
+<h2> Olá! Meu nome é <strong>João Guilherme!</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <h4>Sou estudante de Análise e Desenvolvimento de Sistemas no Senac por meio do Embarque Digital <h4>
       
   
