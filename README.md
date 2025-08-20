@@ -1,4 +1,4 @@
-<h2> Olá! Meu nome é <strong>João Guilherme!</strong> <img src="https://animesher.com/orig/1/168/1686/16866/animesher.com_nagisa-hazuki-free-anime-boy-1686663.gif" width="30px">
+<h2> Olá! Meu nome é <strong>João Guilherme!</strong> <img src="https://animesher.com/orig/1/168/1686/16866/animesher.com_nagisa-hazuki-free-anime-boy-1686663.gif" >
 <h4>Sou estudante de Análise e Desenvolvimento de Sistemas no Senac por meio do Embarque Digital <h4>
       
   
