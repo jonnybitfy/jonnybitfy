@@ -16,7 +16,7 @@
 <div align="center">
 
   <a href="#" alt="Gmail">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png=jgoliveiraqm@gmail.com"/></a>
+    <img src="https://thumbnail.imgbin.com/8/25/0/gmail-logo-gmail-logo-with-multicolor-design-VxbAVNCY_t.jpg=jgoliveiraqm@gmail.com"/></a>
 
   <a href="#" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoguilhermeo/" /></a>
